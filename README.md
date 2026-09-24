@@ -72,11 +72,11 @@ SQL was used to analyze:
 
 ### Power BI Dashboard
 
-![Power BI Dashboard](powerbi-dashboard.png)
+![Power BI Dashboard](Screenshot%202026-09-24%20183212.png)
 
 ### Excel Dashboard
 
-![Excel Dashboard](excel-dashboard.png)
+![Excel Dashboard](Screenshot%202026-09-24%20183105.png)
 
 ### Tableau Dashboard
 
