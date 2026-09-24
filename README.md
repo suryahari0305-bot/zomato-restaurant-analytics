@@ -1,17 +1,17 @@
 # Zomato Restaurant Analytics
 
-An end-to-end restaurant analytics project using **SQL, Excel, Power BI, and Tableau** to analyze restaurant distribution, pricing, ratings, cuisines, service availability, and opening trends.
+An end-to-end restaurant analytics project using **SQL, Excel, Power BI, and Tableau** to analyze restaurant distribution, pricing, ratings, cuisines, service availability, and restaurant opening trends.
 
 ## 📊 Project Overview
 
 The project analyzes **9,551 restaurant records across 15 countries and 141 cities**.
 
-The analysis focuses on understanding:
+The analysis focuses on:
 
 - Restaurant distribution across countries and cities
 - Cuisine popularity
 - Restaurant pricing
-- Customer rating patterns
+- Restaurant rating patterns
 - Online delivery availability
 - Table booking availability
 - Restaurant opening trends by year and month
@@ -46,7 +46,7 @@ SQL was used to analyze:
 - Restaurant openings by year and month
 - Percentage-based business metrics
 
-Key SQL concepts used:
+### Key SQL Concepts
 
 `JOIN` · `GROUP BY` · `CASE` · `COUNT` · `ORDER BY` · Subqueries · Percentage calculations
 
@@ -72,17 +72,27 @@ Key SQL concepts used:
 
 ### Power BI Dashboard
 
-![Power BI Dashboard](Screenshot%202026-09-24%20183212.png)
+![Power BI Dashboard](powerbi-dashboard.png)
 
 ### Excel Dashboard
 
-![Excel Dashboard](Screenshot%202026-09-24%20183105.png)
+![Excel Dashboard](excel-dashboard.png)
+
+### Tableau Dashboard
+
+![Tableau Dashboard](tableau-dashboard.png)
 
 ## 💡 Business Insights
 
-The analysis highlights strong geographic concentration of restaurants, differences in pricing and rating categories, and relatively limited adoption of online delivery and table booking within the dataset.
+The analysis highlights:
 
-The dashboards provide an interactive way to explore these patterns across different dimensions such as country, city, price, rating, cuisine and time.
+- Strong geographic concentration of restaurants, particularly in India and New Delhi.
+- Differences in restaurant pricing and rating categories.
+- Relatively limited availability of online delivery and table booking services.
+- Changes in restaurant openings across different years and months.
+- Differences in restaurant distribution across cuisines and cities.
+
+The dashboards provide interactive views of these patterns across dimensions such as country, city, price, rating, cuisine, service availability and time.
 
 ## 📁 Project Files
 
@@ -90,6 +100,7 @@ The dashboards provide an interactive way to explore these patterns across diffe
 - `zomato Presentation.pptx` – Project presentation
 - `Screenshot 2026-09-24 183212.png` – Power BI dashboard
 - `Screenshot 2026-09-24 183105.png` – Excel dashboard
+- `tableau-dashboard.png` – Tableau dashboard
 
 ## 👤 Author
 
