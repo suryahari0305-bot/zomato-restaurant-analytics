@@ -1,0 +1,10 @@
+# Data / BI files
+*.xlsx
+*.xls
+*.pbix
+*.twb
+*.twbx
+
+# OS files
+.DS_Store
+Thumbs.db
