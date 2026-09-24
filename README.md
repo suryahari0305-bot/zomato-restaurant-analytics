@@ -1,90 +1,98 @@
 # Zomato Restaurant Analytics
 
-## Project Overview
+An end-to-end restaurant analytics project using **SQL, Excel, Power BI, and Tableau** to analyze restaurant distribution, pricing, ratings, cuisines, service availability, and opening trends.
 
-An exploratory restaurant analytics project using SQL, Excel, Power BI, and Tableau to analyze restaurant distribution, ratings, pricing, cuisines, service availability, and restaurant-opening trends.
+## 📊 Project Overview
 
-## Dataset
+The project analyzes **9,551 restaurant records across 15 countries and 141 cities**.
 
-- **9,551 restaurant records**
-- **15 countries**
-- **141 cities**
-- **1,826 cuisine values**
-- Average restaurant rating: **2.89**
+The analysis focuses on understanding:
 
-## Tools & Technologies
+- Restaurant distribution across countries and cities
+- Cuisine popularity
+- Restaurant pricing
+- Customer rating patterns
+- Online delivery availability
+- Table booking availability
+- Restaurant opening trends by year and month
 
-- SQL
-- Microsoft Excel
-- Power BI
-- Tableau
+## 🛠️ Tools & Technologies
 
-## Analysis Performed
+- **SQL** – Data extraction, joins, aggregations, subqueries, CASE statements and percentage analysis
+- **Excel** – Data preparation, Pivot Tables, KPI analysis and dashboard development
+- **Power BI** – Interactive dashboard and KPI visualization
+- **Tableau** – Interactive data visualization and dashboard development
 
-### Data Preparation
+## 🧹 Data Preparation
 
-- Cleaned and transformed the restaurant dataset.
-- Handled missing values and inconsistencies.
-- Standardized relevant fields for analysis.
-- Created analytical categories for price and rating analysis.
+The dataset was prepared before analysis by:
 
-### SQL Analysis
+- Handling missing values
+- Cleaning inconsistent values
+- Standardizing fields
+- Creating analytical price and rating categories
+- Preparing data for SQL, Excel and BI analysis
 
-The SQL analysis includes:
+## 🔎 SQL Analysis
 
-- Joins
-- Aggregations
-- `GROUP BY`
-- `CASE` statements
-- Subqueries
-- Percentage calculations
-- Country and city analysis
-- Rating analysis
-- Pricing analysis
-- Online-delivery analysis
-- Table-booking analysis
-- Restaurant-opening trends
+SQL was used to analyze:
 
-## Key Findings
+- Country and city-level restaurant distribution
+- Restaurant counts by cuisine
+- Price categories
+- Rating categories
+- Online delivery availability
+- Table booking availability
+- Restaurant openings by year and month
+- Percentage-based business metrics
 
-- **New Delhi:** 5,473 restaurant records, representing approximately **57.3%** of the dataset.
-- **Online delivery:** 2,451 restaurants (**25.66%**) offer online delivery.
-- **Table booking:** 1,158 restaurants (**12.12%**) provide table booking.
-- **Restaurant openings:** 2018 had the highest number of restaurant records, with **1,102**.
-- **Average rating:** The overall average restaurant rating in the dataset is **2.89**.
+Key SQL concepts used:
 
-## Dashboards
+`JOIN` · `GROUP BY` · `CASE` · `COUNT` · `ORDER BY` · Subqueries · Percentage calculations
 
-Interactive analysis was developed in:
+## 📈 Key Findings
 
-- Power BI
-- Tableau
-- Excel
+### Restaurant Distribution
 
-The dashboards use KPI cards, filters, and visual analysis to explore restaurant count, cuisines, pricing, ratings, location, service availability, and opening trends.
+- **9,551** restaurants were analyzed.
+- The dataset covers **15 countries and 141 cities**.
+- **New Delhi contains 5,473 restaurants**, representing approximately **57.3%** of the dataset.
+- India contains **8,652 restaurants**, making up approximately **90.6%** of the dataset.
 
-## Business Questions
+### Service Availability
 
-1. How are restaurants distributed across countries and cities?
-2. Which locations have the highest restaurant concentration?
-3. How are restaurants distributed across cuisines and price categories?
-4. What is the overall restaurant rating pattern?
-5. How common are online delivery and table-booking services?
-6. How has the number of restaurant records changed over time?
+- **2,451 restaurants (25.66%)** offer online delivery.
+- **1,158 restaurants (12.12%)** provide table booking.
 
-## Project Structure
+### Restaurant Openings
 
-```text
-zomato-restaurant-analytics/
-├── README.md
-├── sql/
-│   └── zomato_analysis.sql
-├── dashboards/
-├── screenshots/
-└── presentation/
-    └── zomato Presentation.pptx
-```
+- **2018 recorded the highest number of restaurant records at 1,102.**
 
-## Notes
+## 📊 Dashboard Preview
 
-The raw Excel dataset and proprietary dashboard files are not included in this repository package at this stage. The repository is intended to document the analysis, SQL work, dashboard outputs, and project findings.
+### Power BI Dashboard
+
+![Power BI Dashboard](Screenshot%202026-09-24%20183212.png)
+
+### Excel Dashboard
+
+![Excel Dashboard](Screenshot%202026-09-24%20183105.png)
+
+## 💡 Business Insights
+
+The analysis highlights strong geographic concentration of restaurants, differences in pricing and rating categories, and relatively limited adoption of online delivery and table booking within the dataset.
+
+The dashboards provide an interactive way to explore these patterns across different dimensions such as country, city, price, rating, cuisine and time.
+
+## 📁 Project Files
+
+- `zomato_analysis.sql` – SQL analysis queries
+- `zomato Presentation.pptx` – Project presentation
+- `Screenshot 2026-09-24 183212.png` – Power BI dashboard
+- `Screenshot 2026-09-24 183105.png` – Excel dashboard
+
+## 👤 Author
+
+**Hariharan N**
+
+Data Analyst | SQL | Excel | Power BI | Tableau
