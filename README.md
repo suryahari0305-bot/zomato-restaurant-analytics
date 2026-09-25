@@ -80,7 +80,7 @@ SQL was used to analyze:
 
 ### Tableau Dashboard
 
-![Tableau Dashboard](TABLEAU_FILENAME_HERE)
+![Tableau Dashboard](Screenshot 2026-09-24 185012.png)
 
 ## 💡 Business Insights
 
