@@ -18,8 +18,8 @@ The analysis focuses on:
 
 ## 🛠️ Tools & Technologies
 
-- **SQL** – Data extraction, joins, aggregations, subqueries, CASE statements and percentage analysis
-- **Excel** – Data preparation, Pivot Tables, KPI analysis and dashboard development
+- **SQL** – Data extraction, joins, aggregations, subqueries, CASE statements, and percentage analysis
+- **Excel** – Data preparation, Pivot Tables, KPI analysis, and dashboard development
 - **Power BI** – Interactive dashboard and KPI visualization
 - **Tableau** – Interactive data visualization and dashboard development
 
@@ -31,7 +31,7 @@ The dataset was prepared before analysis by:
 - Cleaning inconsistent values
 - Standardizing fields
 - Creating analytical price and rating categories
-- Preparing data for SQL, Excel and BI analysis
+- Preparing data for SQL, Excel, and BI analysis
 
 ## 🔎 SQL Analysis
 
@@ -80,7 +80,7 @@ SQL was used to analyze:
 
 ### Tableau Dashboard
 
-![Tableau Dashboard](tableau-dashboard.png)
+![Tableau Dashboard](TABLEAU_FILENAME_HERE)
 
 ## 💡 Business Insights
 
@@ -92,7 +92,7 @@ The analysis highlights:
 - Changes in restaurant openings across different years and months.
 - Differences in restaurant distribution across cuisines and cities.
 
-The dashboards provide interactive views of these patterns across dimensions such as country, city, price, rating, cuisine, service availability and time.
+The dashboards provide interactive views of these patterns across dimensions such as country, city, price, rating, cuisine, service availability, and time.
 
 ## 📁 Project Files
 
@@ -100,7 +100,7 @@ The dashboards provide interactive views of these patterns across dimensions suc
 - `zomato Presentation.pptx` – Project presentation
 - `Screenshot 2026-09-24 183212.png` – Power BI dashboard
 - `Screenshot 2026-09-24 183105.png` – Excel dashboard
-- `tableau-dashboard.png` – Tableau dashboard
+- Tableau screenshot – Tableau dashboard
 
 ## 👤 Author
 
