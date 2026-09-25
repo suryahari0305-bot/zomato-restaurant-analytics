@@ -80,8 +80,7 @@ SQL was used to analyze:
 
 ### Tableau Dashboard
 
-![Tableau Dashboard](Screenshot 2026-09-24 185012.png)
-
+![Tableau Dashboard](Screenshot%202026-09-24%20185012.png)
 ## 💡 Business Insights
 
 The analysis highlights:
